@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VariableAndFunctions : MonoBehaviour
 {
-    //Create a variableod type intand set it to the number 5
+    //Create a variable type int and set it to the number 5
     int myInt = 3;
 
 
