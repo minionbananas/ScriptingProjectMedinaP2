@@ -15,6 +15,7 @@ public class DoWhileLoops : MonoBehaviour
             print("Hello World");
 
         } while (shouldContinue == true);
+    }
 
     // Update is called once per frame
     void Update()
