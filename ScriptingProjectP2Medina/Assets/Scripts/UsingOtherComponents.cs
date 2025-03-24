@@ -7,7 +7,7 @@ public class UsingOtherComponents : MonoBehaviour
     public GameObject otherGameObject;
 
 
-    private AnotherScript anotherscript;
+    private AnotherScript anotherScript;
     private YetAnotherScript yetAnotherScript;
     private BoxCollider boxCol;
 
